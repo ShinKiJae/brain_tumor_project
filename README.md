@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/956443e3-efb7-4f1d-8da7-d566c25df566)# brain_tumor_project
 ## 1. 문제 정의
 ### MRI 이미지를 활용해 뇌종양 여부를 자동으로 분류하는 모델을 구현
 ### 입력 데이터 : 128x128 크기의 흑백 MRI 이미지
